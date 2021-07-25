@@ -1,0 +1,16 @@
+.info {
+  padding: 3rem;
+}
+
+.title {
+  color: var(--text-title);
+  font-size: 2.5rem;
+  line-height: 2rem;
+  padding: 2rem 0;
+}
+
+.description {
+  color: var(--text-body);
+  line-height: 2rem;
+  font-size: 1.5rem;
+}
